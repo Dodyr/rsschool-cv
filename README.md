@@ -1,2 +1,2 @@
 # rsschool-cv
-for rsschool
+https://Dodyr.github.io/rsschool-cv/cv
